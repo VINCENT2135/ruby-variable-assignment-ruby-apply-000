@@ -9,3 +9,4 @@ describe "./variable.rb" do
 
 greeting = "Hello World"
 
+end 
